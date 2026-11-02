@@ -1,4 +1,4 @@
-Benighter Arcade 1.0.2
+Benighter Arcade 1.0.3
 
 • Original store layout, console tabs, search and library retained.
 • Benighter name, generated app icon and developer signing identity.
